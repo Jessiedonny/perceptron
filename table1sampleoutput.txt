@@ -1,0 +1,10 @@
+Data split:
+Training instances: 4
+Test instances: 4
+Training accuracy=75.0%
+ >> Weights =[0.68619, -1.23066, -0.36328, 1.26587]
+Instance 0, class: 0, predicted class: 1
+Instance 1, class: 1, predicted class: 0
+Instance 2, class: 1, predicted class: 1
+Instance 3, class: 0, predicted class: 1
+Testing accuracy =25.0%
